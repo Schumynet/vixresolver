@@ -1,0 +1,12 @@
+{
+  "name": "vix-resolver",
+  "version": "1.0.0",
+  "main": "resolve_service.js",
+  "scripts": {
+    "start": "node resolve_service.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "playwright": "^1.43.0"
+  }
+}
